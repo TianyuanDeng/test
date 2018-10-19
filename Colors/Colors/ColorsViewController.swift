@@ -13,7 +13,7 @@ class ColorsViewController: UIViewController, UITableViewDelegate, UITableViewDa
     var colors = ["red", "orange", "yellow", "green", "blue", "pruple", "brown"]
     
     override func viewDidLoad() {
-        super.viewDidLoad()
+        super.viewDidLoad();
 
         // Do any additional setup after loading the view.
     }
